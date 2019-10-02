@@ -62,7 +62,7 @@
   "devDependencies": {
     "flow-bin": "^0.70.0",
     "fs-extra": "^4.0.2",
-    "grumbler-scripts": "^2.0.24",
+    "grumbler-scripts": "^3.0.52",
     "imagemagick": "^0.1.3",
     "imgur": "^0.2.1",
     "memory-fs": "^0.4.1",
