@@ -72,7 +72,7 @@
     "puppeteer": "^0.11.0",
     "sync-browser-mocks": "^1.0.43",
     "webpack-cli": "^1.5.3",
-    "webpack-dev-server": "^2.11.2"
+    "webpack-dev-server": "^3.10.1"
   },
   "dependencies": {
     "Base64": "^1.0.0",
