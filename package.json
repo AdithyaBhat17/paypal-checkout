@@ -60,7 +60,7 @@
   "license": "Apache-2.0",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "flow-bin": "^0.70.0",
+    "flow-bin": "^0.115.0",
     "fs-extra": "^4.0.2",
     "grumbler-scripts": "^2.0.24",
     "imagemagick": "^0.1.3",
